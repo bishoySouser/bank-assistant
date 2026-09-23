@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector Databases & Local embeddings
+vector_db/
+cib_vector_db/
+
+# Streamlit logs & OS files
+.streamlit/
+.DS_Store
+*.log
