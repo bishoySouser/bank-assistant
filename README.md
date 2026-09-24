@@ -1,13 +1,13 @@
 # Bank AI Assistant
 
-This project is a smart banking assistant for CIB (Commercial International Bank) built with Python, LangChain, Streamlit, and a local vector database for retrieval-augmented generation (RAG).
+This project is a smart banking assistant for  (Commercial International Bank) built with Python, LangChain, Streamlit, and a local vector database for retrieval-augmented generation (RAG).
 
 ## Overview
 
 The system can:
 
 - answer banking questions using the knowledge base
-- explain CIB products and services
+- explain products and services
 - calculate estimated loan installments
 - estimate certificate returns
 - help trigger card freeze emergency actions
@@ -61,7 +61,7 @@ The assistant can help with questions like:
 - What is the premium certificate?
 - How much is the monthly installment for a personal loan?
 - How do I freeze my card?
-- What are CIB banking services and terms?
+- What are banking services and terms?
 
 ## Notes
 
