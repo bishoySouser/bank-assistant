@@ -1,6 +1,6 @@
 # Bank AI Assistant
 
-This project is a smart banking assistant for  (Commercial International Bank) built with Python, LangChain, Streamlit, and a local vector database for retrieval-augmented generation (RAG).
+This project is a smart banking assistant for  (Bank) built with Python, LangChain, Streamlit, and a local vector database for retrieval-augmented generation (RAG).
 
 ## Overview
 
